@@ -1,5 +1,5 @@
 {
-  "name": "load",
+  "name": "tea-load",
   "version": "1.0.2",
   "description": "Load plain JavaScript files that don't use module patterns directly in node.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/3rd-Eden/load.git"
+    "url": "git://github.com/monhoangkhoi/load.git"
   },
   "keywords": [
     "load",
